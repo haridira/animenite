@@ -8,4 +8,8 @@ The web page is not completely static. The movies section (which is nitially a m
 ## Styling
 Styling of this page is mostly vanilla CSS. However, the page is linked to a Bootstrap styles heet, which is used for the button only.
 
+## Screen Compatibility
+The web page has responsive styling and should adapt well to different screen sizes, including cell phone and tablet screens.
+
+## Live Link
 The web page can be accessed [here](https://haridira.github.io/portfolio/animeNite/).
