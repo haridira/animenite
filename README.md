@@ -12,6 +12,4 @@ Styling of this page is mostly vanilla CSS. However, the page is linked to a Boo
 The web page has responsive styling and should adapt well to different screen sizes, including cell phone and tablet screens.
 
 ## Live Link
-The web page can be accessed [here](https://haridira.github.io/portfolio/portfolio/23-02-01-animeNite/){:target="_blank"}.
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+The web page can be accessed [here](https://haridira.github.io/portfolio/portfolio/23-02-01-animeNite/).
