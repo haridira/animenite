@@ -10,6 +10,3 @@ Styling of this page is mostly vanilla CSS. However, the page is linked to a Boo
 
 ## Screen Compatibility
 The web page has responsive styling and should adapt well to different screen sizes, including cell phone and tablet screens.
-
-## Live Link
-The web page can be accessed [here](https://haridira.github.io/animenite/).
