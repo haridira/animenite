@@ -6,7 +6,7 @@ This web page is *not* business related. It was created for a house gathering to
 The web page is not completely static. The movies section (which is nitially a mere empty container on the HTML page) gets populated by a JavaScript script. The data is pulled from an array of objects (mimicking an actual database), selecting the properties that we're interested in. This also includes using the fileName field as part of the image path when we add its src attribute. Likewise, the hover text is also pulled from the array as an object property.
 
 ## Styling
-Styling of this page is mostly vanilla CSS using flexbox. However, the page is linked to a Bootstrap style sheet, which is used for the button only.
+Styling of this page is mostly vanilla CSS. However, the page is linked to a Bootstrap style sheet, which is used for the button only.
 
 ## Screen Compatibility
 The web page has responsive styling and should adapt well to different screen sizes, including cell phone and tablet screens.
